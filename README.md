@@ -2,4 +2,4 @@
 hii!! i'm ki idk what to say about me hehehe ·w·
 
 #### Esolangs 🍋‍🟩
-[![nori.io](noriioicon.png)](https://github.com/mkukiro/nori.io)
+[<img src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)
