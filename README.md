@@ -7,3 +7,8 @@ i love omori buns <3
 
 #### Esolangs 🍋‍🟩
 [<img src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)
+
+#### Stuff 🧬
+[i took the pancake bunny from here :3](https://omori.fandom.com/wiki/File:PancakeBunnyWalk.gif)
+
+[hello](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
