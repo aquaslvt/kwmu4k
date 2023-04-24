@@ -1,14 +1,9 @@
 ### Ki 🥮
 hii!! i'm ki idk what to say about me hehehe ![bun](https://static.wikia.nocookie.net/omori/images/c/c2/PancakeBunnyWalk.gif/revision/latest?cb=20210530091733&format=original)
 
-i love omori buns <3
+i love [omori buns](https://omori.fandom.com/wiki/File:PancakeBunnyWalk.gif) <3
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkukiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Esolangs 🍋‍🟩
 [<img src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)
-
-#### Stuff 🧬
-[i took the pancake bunny from here :3](https://omori.fandom.com/wiki/File:PancakeBunnyWalk.gif)
-
-[hello](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
