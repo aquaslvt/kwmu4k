@@ -11,4 +11,5 @@ do you like rust? i love it! <img src="https://nukocities.neocities.org/nuko/act
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="36px" height="24px">](https://go.dev/)
 
 #### Esolangs <img src="https://nukocities.neocities.org/nuko/act/cat491.gif">
-[<img title="nori.io (Lua)" src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)[<img title="nori.ni (Py)" src="https://github.com/mkukiro/nori.ni/blob/main/.meow/nori.fi.svg" width="48" height="48">](https://github.com/mkukiro/nori.ni)
+[<img title="nori.ni (Py)" src="https://github.com/mkukiro/nori.ni/blob/main/.meow/nori.fi.svg" width="48" height="48">](https://github.com/mkukiro/nori.ni)
+[<img title="nori.io (Lua)" src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)
