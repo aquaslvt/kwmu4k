@@ -10,6 +10,7 @@ do you like rust? i love it! <img src="https://nukocities.neocities.org/nuko/act
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" width="24px" height="24px">](https://www.kotlinlang.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="24px" height="24px">](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="24px" height="24">](https://www.haskell.org/)
+[<img src="https://aplwiki.com/images/c/c6/APL_logo.png" width="24px" height="24">](https://aplwiki.com/)
 
 #### Esolangs <img src="https://nukocities.neocities.org/nuko/act/cat491.gif">
 [<img title="nori.ni (Py)" src="https://github.com/mkukiro/nori.ni/blob/main/.meow/nori.fi.svg" width="48" height="48">](https://github.com/mkukiro/nori.ni)
