@@ -3,7 +3,7 @@
 ### Ki 🍮
 do you like rust? i love it! <img src="https://nukocities.neocities.org/nuko/act/cat89.gif">
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="24px" height="24px">](https://www.rust-lang.org/)
+[<img src="https://www.whatrustisit.com/images/rust-logo-nightly.svg" width="28px" height="29px">](https://www.rust-lang.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="24px" height="24px">](https://www.lua.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24px" height="24px">](https://www.python.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="24px" height="24px">](https://www.typescriptlang.org/)
@@ -16,3 +16,5 @@ do you like rust? i love it! <img src="https://nukocities.neocities.org/nuko/act
 [<img title="nori.ni (Py)" src="https://github.com/mkukiro/nori.ni/blob/main/.meow/nori.fi.svg" width="48" height="48">](https://github.com/mkukiro/nori.ni)
 [<img title="nori.io (Lua)" src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)
 [<img title="oryx" src="https://github.com/mkukiro/oryx/blob/main/.meow/oryx.svg" width="48px" height="48px">](https://github.com/mkukiro/oryx)
+
+<sup>Rust Nightly logo by [Ura Design](https://ura.design/en/)<sup/>
