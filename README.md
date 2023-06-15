@@ -5,6 +5,9 @@ do you like rust? i love it! <img src="https://nukocities.neocities.org/nuko/act
 
 hehehehe i'm building 4-bit, 8-bit, and 16-bit computers all from scratch!! <img src="https://nukocities.neocities.org/nuko/act/cat30.gif">
 
+<img src="https://nukocities.neocities.org/nuko/sets/cat158.gif"><img src="https://nukocities.neocities.org/nuko/sets/cat159.gif">
+<img src="https://nukocities.neocities.org/nuko/sets/cat326.gif">
+
 [<img src="https://www.whatrustisit.com/images/rust-logo-nightly.svg" width="28px" height="29px">](https://www.rust-lang.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="24px" height="24px">](https://www.lua.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24px" height="24px">](https://www.python.org/)
