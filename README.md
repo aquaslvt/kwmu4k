@@ -1,6 +1,6 @@
 [<img align="right" src="https://static.wikia.nocookie.net/omori/images/c/c2/PancakeBunnyWalk.gif/revision/latest?cb=20210530091733&format=original">](https://omori.fandom.com/wiki/File:PancakeBunnyWalk.gif)
 
-### Ki <img src="https://nukocities.neocities.org/nuko/act/cat135.gif">
+### Ki <img src="https://nukocities.neocities.org/nuko/act/cat432.gif">
 > do you like rust? i love it! <img src="https://nukocities.neocities.org/nuko/act/cat89.gif">
 >
 > hehehehe i'm building 4-bit, 8-bit, and 16-bit computers all from scratch!! <img src="https://nukocities.neocities.org/nuko/act/cat30.gif">
