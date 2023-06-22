@@ -1,4 +1,4 @@
-[<img align="right" src="https://static.wikia.nocookie.net/omori/images/c/c2/PancakeBunnyWalk.gif/revision/latest?cb=20210530091733&format=original">](https://omori.fandom.com/wiki/File:PancakeBunnyWalk.gif)
+[<img align="right" src="b-removebg-preview (1).png" width="22" height="22">](https://github.com/LabRicecat)
 
 ### Ki <img src="https://nukocities.neocities.org/nuko/act/cat432.gif">
 > do you like rust? i love it! <img src="https://nukocities.neocities.org/nuko/act/cat89.gif">
