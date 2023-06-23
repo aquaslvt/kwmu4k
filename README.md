@@ -1,4 +1,4 @@
-### Ki <img src="https://nukocities.neocities.org/nuko/act/cat432.gif"> [<img align="right" src="b-removebg-preview (1).png" width="22" height="22">](https://github.com/LabRicecat)
+### Ki <img src="https://nukocities.neocities.org/nuko/act/cat432.gif"> [<img align="right" src="b-removebg-preview (1).png" width="22" height="22" title="matching cat w/labricecat!">](https://github.com/LabRicecat)
 > do you like rust? i love it! <img src="https://nukocities.neocities.org/nuko/act/cat89.gif">
 >
 > hehehehe i'm building 4-bit, 8-bit, and 16-bit computers all from scratch!! <img src="https://nukocities.neocities.org/nuko/act/cat30.gif">
