@@ -21,4 +21,7 @@
 [<img title="nori.io (Lua)" src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)
 [<img title="oryx" src="https://github.com/mkukiro/oryx/blob/main/.meow/oryx.svg" width="48px" height="48px">](https://github.com/mkukiro/oryx)
 
+#### Archs <img src="https://nukocities.neocities.org/nuko/act/cat34.gif">
+[<img title="uni04" src="uni04.png" width="42px" height="42px">](https://github.com/mkukiro/uni04)
+
 <sup>Rust Nightly logo by [Ura Design](https://ura.design/en/)<sup/>
