@@ -14,6 +14,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="24px" height="24px">](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="24px" height="24px">](https://www.haskell.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" width="24px" height="24px">](https://clojure.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" width="24px" height="24px">](https://racket-lang.org/)
 [<img src="https://aplwiki.com/images/c/c6/APL_logo.png" width="24px" height="24">](https://aplwiki.com/)
 
 #### Esolangs <img src="https://nukocities.neocities.org/nuko/act/cat491.gif">
