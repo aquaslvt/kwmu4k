@@ -6,6 +6,8 @@
 ![](https://nukocities.neocities.org/nuko/sets/cat158.gif)![](https://nukocities.neocities.org/nuko/sets/cat159.gif)
 ![](https://nukocities.neocities.org/nuko/sets/cat326.gif)
 
+[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/racket.svg" width="24px" height="24px">](https://racket-lang.org/)
+[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/clojure.svg" width="24px" height="24px">](https://clojure.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/rust.svg" width="24px" height="24px">](https://www.rust-lang.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/lua.svg" width="24px" height="24px">](https://www.lua.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/python.svg" width="24px" height="24px">](https://www.python.org/)
@@ -13,9 +15,6 @@
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/kotlin.svg" width="24px" height="24px">](https://www.kotlinlang.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/cpp.svg" width="24px" height="24px">](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/haskell.svg" width="24px" height="24px">](https://www.haskell.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/clojure.svg" width="24px" height="24px">](https://clojure.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/racket.svg" width="24px" height="24px">](https://racket-lang.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/apl.svg" width="24px" height="24">](https://aplwiki.com/)
 
 #### Esolangs ![](https://nukocities.neocities.org/nuko/act/cat491.gif)
 [<img title="nori.ni (Py)" src="https://github.com/mkukiro/nori.ni/blob/main/.meow/nori.fi.svg" width="48" height="48">](https://github.com/mkukiro/nori.ni)
