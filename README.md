@@ -16,10 +16,14 @@
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/cpp.svg" width="24px" height="24px">](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/haskell.svg" width="24px" height="24px">](https://www.haskell.org/)
 
+#### Projects ![](https://nukocities.neocities.org/nuko/act/cat163.gif)
+
+[<img title="squish" src="https://github.com/mkukiro/squish/blob/main/.meow/sqsh.svg" width="32" height="32">]()
+
 #### Esolangs ![](https://nukocities.neocities.org/nuko/act/cat491.gif)
-[<img title="nori.ni (Py)" src="https://github.com/mkukiro/nori.ni/blob/main/.meow/nori.fi.svg" width="48" height="48">](https://github.com/mkukiro/nori.ni)
+[<img title="nori.ni" src="https://github.com/mkukiro/nori.ni/blob/main/.meow/nori.fi.svg" width="48" height="48">](https://github.com/mkukiro/nori.ni)
 [<img title="snø" src="https://github.com/mkukiro/sno/blob/main/.meow/snø.svg" width="48" height="48">](https://github.com/mkukiro/sno)
-[<img title="nori.io (Lua)" src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)
+[<img title="nori.io" src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)
 [<img title="oryx" src="https://github.com/mkukiro/oryx/blob/main/.meow/oryx.svg" width="48px" height="48px">](https://github.com/mkukiro/oryx)
 
 #### Archs ![](https://nukocities.neocities.org/nuko/act/cat34.gif)
