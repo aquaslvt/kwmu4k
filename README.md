@@ -18,7 +18,7 @@
 
 #### Projects ![](https://nukocities.neocities.org/nuko/act/cat163.gif)
 
-[<img title="squish" src="https://github.com/mkukiro/squish/blob/main/.meow/sqsh.svg" width="32" height="32">]()
+[<img title="squish" src="https://github.com/mkukiro/squish/blob/main/.meow/sqsh.svg" width="32" height="32">](https://github.com/mkukiro/squish)
 
 #### Esolangs ![](https://nukocities.neocities.org/nuko/act/cat491.gif)
 [<img title="nori.ni" src="https://github.com/mkukiro/nori.ni/blob/main/.meow/nori.fi.svg" width="48" height="48">](https://github.com/mkukiro/nori.ni)
