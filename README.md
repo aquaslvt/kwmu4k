@@ -29,4 +29,4 @@
 #### Archs ![](https://nukocities.neocities.org/nuko/act/cat34.gif)
 [<img title="uni04" src="uni04.png" width="42px" height="42px">](https://github.com/mkukiro/uni04)
 
-<sup>PL icons by [Catppuccin](https://github.com/catppuccin/vscode-icons)<sup/>
+<sup>Language icons by [Catppuccin](https://github.com/catppuccin/vscode-icons)<sup/>
