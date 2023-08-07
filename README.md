@@ -26,8 +26,5 @@
 [<img title="nori.io" src="noriioicon.svg" width="48px" height="48px">](https://github.com/mkukiro/nori.io)
 [<img title="oryx" src="https://github.com/mkukiro/oryx/blob/main/.meow/oryx.svg" width="48px" height="48px">](https://github.com/mkukiro/oryx)
 
-#### Archs ![](https://nukocities.neocities.org/nuko/act/cat34.gif)
-[<img title="uni04" src="uni04.png" width="42px" height="42px">](https://github.com/mkukiro/uni04)
-
 <sup>Language icons by [Catppuccin](https://github.com/catppuccin/vscode-icons)<sup/>
 [<img title="nya!!" align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d4c4798-abad-43ed-90ff-ea5105a844a1/d9apmq7-d2954add-75ff-4d5f-abc2-c538eb58f48a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkNGM0Nzk4LWFiYWQtNDNlZC05MGZmLWVhNTEwNWE4NDRhMVwvZDlhcG1xNy1kMjk1NGFkZC03NWZmLTRkNWYtYWJjMi1jNTM4ZWI1OGY0OGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VtRSLokuYEx63gKG3coHYT5J26c1SpI0PL0he4QWGkE">](https://www.deviantart.com/rnorals/gallery)
