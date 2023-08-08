@@ -1,5 +1,5 @@
 ### Ki ![](https://nukocities.neocities.org/nuko/act/cat432.gif) [<img align="right" src="b-removebg-preview (1).png" width="22" height="22" title="matching cat w/labricecat!">](https://github.com/LabRicecat) [<img align="right" src="toro2.png" width="22px" height="22px" title="matching toro w/dvnlx!">](https://github.com/dvnlx)
-> do you like rust? i love it! <img src="https://nukocities.neocities.org/nuko/act/cat89.gif">
+> do you like racket? i love it!! <img src="https://nukocities.neocities.org/nuko/act/cat89.gif">
 >
 > hehehehe i'm building 4-bit, 8-bit, and 16-bit computers all from scratch!! ![](https://nukocities.neocities.org/nuko/act/cat30.gif)
 
