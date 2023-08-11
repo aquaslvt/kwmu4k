@@ -3,7 +3,7 @@
 >
 > hehehehe i'm building 4-bit, 8-bit, and 16-bit computers all from scratch!! ![](https://nukocities.neocities.org/nuko/act/cat30.gif)
 
-![](https://nukocities.neocities.org/nuko/sets/cat158.gif)![](https://nukocities.neocities.org/nuko/sets/cat159.gif)
+![](https://nukocities.neocities.org/nuko/sets/cat158.gif)![](https://nukocities.neocities.org/nuko/sets/cat159.gif) <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height=20>
 ![](https://nukocities.neocities.org/nuko/sets/cat326.gif)
 
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/racket.svg" width="24px" height="24px">](https://racket-lang.org/)
