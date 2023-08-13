@@ -13,7 +13,7 @@
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/lua.svg" width="24px" height="24px">](https://www.lua.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/python.svg" width="24px" height="24px">](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/typescript.svg" width="24px" height="24px">](https://www.typescriptlang.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/go.svg" width="24px" height="24px">](https://www.go.dev/)
+[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/go.svg" width="24px" height="24px">](https://go.dev/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/kotlin.svg" width="24px" height="24px">](https://www.kotlinlang.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/cpp.svg" width="24px" height="24px">](https://en.wikipedia.org/wiki/C%2B%2B)
 
