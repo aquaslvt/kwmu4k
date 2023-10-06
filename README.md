@@ -6,6 +6,7 @@
 ![](https://nukocities.neocities.org/nuko/sets/cat158.gif)![](https://nukocities.neocities.org/nuko/sets/cat159.gif) <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height=20>
 ![](https://nukocities.neocities.org/nuko/sets/cat326.gif)
 
+[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/lisp.svg" width="24px" height="24px">](https://www.scheme.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/racket.svg" width="24px" height="24px">](https://racket-lang.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/clojure.svg" width="24px" height="24px">](https://clojure.org/)
 [<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/haskell.svg" width="24px" height="24px">](https://www.haskell.org/)
