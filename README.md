@@ -3,20 +3,8 @@
 >
 > hehehehe i'm building 4-bit, 8-bit, and 16-bit computers all from scratch!! ![](https://nukocities.neocities.org/nuko/act/cat30.gif)
 
-![](https://nukocities.neocities.org/nuko/sets/cat158.gif)![](https://nukocities.neocities.org/nuko/sets/cat159.gif) <img src="https://kakoune.org/img/kakoune_logo_full.png" height=20>
+![](https://nukocities.neocities.org/nuko/sets/cat158.gif)![](https://nukocities.neocities.org/nuko/sets/cat159.gif) <img src="cpp.png" height=20>
 ![](https://nukocities.neocities.org/nuko/sets/cat326.gif)
-
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/lisp.svg" width="24px" height="24px">](https://www.scheme.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/racket.svg" width="24px" height="24px">](https://racket-lang.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/clojure.svg" width="24px" height="24px">](https://clojure.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/haskell.svg" width="24px" height="24px">](https://www.haskell.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/rust.svg" width="24px" height="24px">](https://www.rust-lang.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/lua.svg" width="24px" height="24px">](https://www.lua.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/python.svg" width="24px" height="24px">](https://www.python.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/typescript.svg" width="24px" height="24px">](https://www.typescriptlang.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/go.svg" width="24px" height="24px">](https://go.dev/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/kotlin.svg" width="24px" height="24px">](https://www.kotlinlang.org/)
-[<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/main/icons/cpp.svg" width="24px" height="24px">](https://en.wikipedia.org/wiki/C%2B%2B)
 
 #### Projects ![](https://nukocities.neocities.org/nuko/act/cat163.gif)
 
